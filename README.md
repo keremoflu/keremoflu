@@ -10,9 +10,8 @@
 
 ### 🙋‍♂️ About Me
 
-Computer Engineering graduate with **2+ years of hands-on iOS development** experience and **10+ apps** shipped to the App Store. I specialize in building well-structured, maintainable iOS applications with **UIKit, SwiftUI, MVC and MVVM**.
+iOS Developer with a Computer Engineering degree, **2+ years of hands-on experience** and **10+ apps** shipped to the App Store. I'm passionate about building well-structured, maintainable iOS applications with **Swift, SwiftUI, UIKit, CoreData, SwiftData, Swift Concurrency, REST, Networking and Firebase**, following **MVC and MVVM** architectures.
 
-- 🚀 Delivered apps with **100K+ downloads** and cut crash rates by up to **25%**
 - 💰 Experienced in **in-app purchases, paywalls and conversion-focused onboarding**
 - 🛫 Experienced with **App Store Connect** and the full app submission & release process
 - 🏆 Selected for **IBB Tech Istanbul** pre-incubation entrepreneurship program
@@ -45,11 +44,11 @@ Computer Engineering graduate with **2+ years of hands-on iOS development** expe
 | App | Description | Link |
 |-----|-------------|------|
 | 😎 **Mojis: AI Emoji & Logo Maker** | Turns photos or text prompts into AI-generated emojis, sticker packs and brand logos. | [App Store](https://apps.apple.com/tr/app/mojis-ai-emoji-logo-maker/id6762197807) |
+| 📍 **Pinly: Find. Pin. Visit.** | Save places you discover on social media to a single map with location and details, get directions and share them with friends. *(Personal project)* | [App Store](https://apps.apple.com/tr/app/pinly-find-pin-visit/id6749908547) |
 | ⏰ **Morning Clock: Smart Loud Alarm** | Alarm for heavy sleepers that only stops after a challenge: math, typing, shake, steps or memory. | [App Store](https://apps.apple.com/tr/app/morning-clock-smart-loud-alarm/id6787097817) |
 | ✨ **Retouch: AI Photo Body Editor** | All-in-one AI photo editor for natural face retouching, body editing, makeup, enhancing and background tools. | [App Store](https://apps.apple.com/tr/app/retouch-ai-photo-body-editor/id6759912424) |
 | 🎵 **AI Music, Song Generator: Beat** | Create original AI songs from lyrics and genres, or make AI covers with different voices. | [App Store](https://apps.apple.com/tr/app/ai-music-song-generator-beat/id6670706731) |
 | 🎬 **AI Video Generator: GenVid** | Designed & developed from scratch with Swift and UIKit. Reached **$10K MRR**. | [App Store](https://apps.apple.com/us/app/ai-video-generator-genvid/id6740006420) |
-| 🧠 **AI Flashcards Study App** | AI-powered flashcards using ChatGPT API, SwiftUI, CoreData and Firebase. *(Co-builder)* | [App Store](https://apps.apple.com/us/app/study-master-ai-flashcards/id6746368059) |
 
 ---
 
