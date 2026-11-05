@@ -1,4 +1,4 @@
-<h3 align="center">Kerem Oflu (iOS Developer)</h3>
+<p align="center">Kerem Oflu · iOS Developer</p>
 <p align="center">Swift · SwiftUI · UIKit · CoreData · SwiftData · Swift Concurrency · REST · Networking · Firebase</p>
 
 <p align="center">
@@ -11,8 +11,6 @@
 ### 🙋‍♂️ About Me
 
 Computer Engineering graduate with **2+ years of hands-on iOS development** experience and **10+ apps** shipped to the App Store. I specialize in building well-structured, maintainable iOS applications with **UIKit, SwiftUI, MVC and MVVM**.
-
-I've worked closely with publishers on onboarding flows and paywall optimizations, helping apps reach **$5K and $10K+ MRR**.
 
 - 🚀 Delivered apps with **100K+ downloads** and cut crash rates by up to **25%**
 - 💰 Experienced in **in-app purchases, paywalls and conversion-focused onboarding**
@@ -52,6 +50,15 @@ I've worked closely with publishers on onboarding flows and paywall optimization
 | 🎵 **AI Music, Song Generator: Beat** | Create original AI songs from lyrics and genres, or make AI covers with different voices. | [App Store](https://apps.apple.com/tr/app/ai-music-song-generator-beat/id6670706731) |
 | 🎬 **AI Video Generator: GenVid** | Designed & developed from scratch with Swift and UIKit. Reached **$10K MRR**. | [App Store](https://apps.apple.com/us/app/ai-video-generator-genvid/id6740006420) |
 | 🧠 **AI Flashcards Study App** | AI-powered flashcards using ChatGPT API, SwiftUI, CoreData and Firebase. *(Co-builder)* | [App Store](https://apps.apple.com/us/app/study-master-ai-flashcards/id6746368059) |
+
+---
+
+### 🧪 Case Studies
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 🎭 **Shorts: Drama App** | Short-form vertical drama streaming app with homepage carousels and series detail screens. SwiftUI, MVVM, async/await mock API, localized in TR & FR. | [GitHub](https://github.com/keremoflu/Shorts_CaseStudy) |
+| 🎙️ **AI Voice Chat** | Real-time voice conversations with an AI assistant using native Speech Recognition, text-to-speech and OpenAI API. SwiftUI, MVVM, VoiceOver support. | [GitHub](https://github.com/keremoflu/AI-Voice-Chat) |
 
 ---
 
