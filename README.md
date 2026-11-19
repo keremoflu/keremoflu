@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ About Me
 
-iOS Developer with a Computer Engineering degree, **2+ years of hands-on experience** and **10+ apps** shipped to the App Store. I'm passionate about building well-structured, maintainable iOS applications with **Swift, SwiftUI, UIKit, CoreData, SwiftData, Swift Concurrency, REST, Networking and Firebase**, following **MVC and MVVM** architectures.
+iOS Developer with a Computer Engineering degree, **3 years of hands-on experience** and **10+ apps** shipped to the App Store. I'm passionate about building well-structured, maintainable iOS applications with **Swift, SwiftUI, UIKit, CoreData, SwiftData, Swift Concurrency, REST, Networking and Firebase**, following **MVC and MVVM** architectures.
 
 - 💰 Experienced in **in-app purchases, paywalls and conversion-focused onboarding**
 - 🛫 Experienced with **App Store Connect** and the full app submission & release process
